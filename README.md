@@ -58,5 +58,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shiv-batra-b4620719b)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/ShivBatra9)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/shiv1820)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](#)
 
